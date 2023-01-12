@@ -1,0 +1,10 @@
+Searching 2 files for "bridge.jpg"
+
+D:\xampp\htdocs\redbridge\images\style.css:
+   60  
+   61  .bridge {
+   62: 	background: #4C180F url(valent.jpg) no-repeat bottom;
+   63  	
+   64  	height: 268px;
+
+1 match in 1 file
